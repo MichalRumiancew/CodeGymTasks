@@ -318,3 +318,43 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-09-26 13:45:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-09-26 13:45:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-09-26 13:45:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 15:12:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-26 15:12:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-09-26 15:12:12 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-09-26 15:12:21 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-09-26 15:59:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-26 15:59:07 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-26 15:59:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 16:00:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-26 16:00:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 16:00:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-26 16:00:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:21 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-09-26 18:51:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-26 18:51:24 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-09-27 17:35:57 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-09-27 17:35:57 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.60 ----------
+
+2022-09-27 17:35:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-09-27 17:35:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-09-27 17:35:57 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-09-27 17:35:57 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-09-27 17:35:57 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-09-27 17:38:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-27 17:38:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-27 17:38:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-27 17:40:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-27 17:40:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-27 17:40:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-27 17:40:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-27 17:41:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-27 17:41:27 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-09-27 17:41:30 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-09-27 17:41:31 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
