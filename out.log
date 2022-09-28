@@ -596,3 +596,23 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 44, length 44
 2022-09-27 21:45:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-09-27 21:45:33 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-09-27 21:45:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-27 21:49:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-27 21:49:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-09-27 21:49:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-09-27 21:49:49 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task04/task0413
+2022-09-27 21:54:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-27 21:54:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-27 21:54:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-27 21:54:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-28 20:15:54 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-09-28 20:15:54 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.60 ----------
+
+2022-09-28 20:15:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-09-28 20:15:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-09-28 20:15:54 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-09-28 20:15:55 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-09-28 20:15:55 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-09-28 20:30:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-28 20:30:18 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-09-28 20:30:20 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-09-28 20:30:20 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task04/task0414
