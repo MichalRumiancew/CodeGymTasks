@@ -654,3 +654,22 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 44, length 44
 2022-10-02 12:04:02 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2022-10-02 12:04:02 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task04/task0416
 2022-10-02 12:04:03 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-02 12:08:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-02 12:08:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-02 12:08:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-02 12:08:52 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-02 12:09:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-02 12:09:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-02 12:09:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-02 12:09:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-02 12:09:12 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-02 12:09:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-02 12:09:24 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-02 12:09:25 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-10-02 12:09:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task04/task0417
+2022-10-02 12:09:26 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-02 12:12:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-02 12:12:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-02 12:13:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-02 12:13:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-02 12:13:04 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
