@@ -20,7 +20,7 @@ public class Solution {
                 return;
             }
             liczba++;
-            sum = +a;
+            sum +=a;
         }
     }
 }
