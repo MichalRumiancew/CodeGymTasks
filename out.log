@@ -1709,3 +1709,18 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 44, length 44
 2022-10-09 18:41:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2022-10-09 18:42:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2022-10-09 18:42:00 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task05/task0507
+2022-10-09 18:48:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-09 18:48:44 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-09 18:49:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-09 18:49:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-09 18:49:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-09 18:49:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-09 18:49:09 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-09 18:49:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-09 18:49:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-09 18:49:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-09 18:49:26 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-09 18:50:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-09 18:50:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-09 18:50:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-09 18:50:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
