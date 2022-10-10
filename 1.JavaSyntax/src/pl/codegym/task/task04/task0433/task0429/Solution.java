@@ -1,4 +1,4 @@
-package pl.codegym.task.task04.task0429;
+package pl.codegym.task.task04.task0433.task0429;
 
 /* 
 Liczby dodatnie i ujemne

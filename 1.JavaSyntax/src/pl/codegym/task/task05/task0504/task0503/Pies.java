@@ -1,4 +1,4 @@
-package pl.codegym.task.task05.task0503;
+package pl.codegym.task.task05.task0504.task0503;
 
 /* 
 Gettery i settery dla klasy Pies
