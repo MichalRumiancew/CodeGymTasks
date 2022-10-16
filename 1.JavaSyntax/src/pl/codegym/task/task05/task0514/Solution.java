@@ -6,10 +6,17 @@ I programista stworzył człowieka
 
 public class Solution {
     public static void main(String[] args) {
-        //tutaj wpisz swój kod
+        Osoba osoba = new Osoba();
+        osoba.inicjalizuj("Alex", 30);
     }
 
     static class Osoba {
-        //tutaj wpisz swój kod
+        String imie;
+        int wiek;
+
+        public void inicjalizuj(String imie, int wiek) {
+            this.wiek = wiek;
+            this.imie = imie;
+        }
     }
 }
