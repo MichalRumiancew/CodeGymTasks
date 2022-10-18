@@ -3020,3 +3020,20 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 44, length 44
 2022-10-18 19:34:29 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-10-18 19:34:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-10-18 19:34:30 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-18 19:47:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-18 19:47:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-18 19:47:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-18 19:47:31 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-18 19:48:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-18 19:48:02 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-18 19:48:04 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-18 19:48:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-18 19:48:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-18 19:48:07 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-18 19:48:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-18 19:48:08 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-10-18 19:48:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-18 19:48:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-18 19:48:18 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-10-18 19:48:18 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task05/task0528
+2022-10-18 19:48:19 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
