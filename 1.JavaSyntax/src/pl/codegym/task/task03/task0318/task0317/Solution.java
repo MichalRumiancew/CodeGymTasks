@@ -1,4 +1,4 @@
-package pl.codegym.task.task03.task0317;
+package pl.codegym.task.task03.task0318.task0317;
 
 /* 
 Droga samuraja

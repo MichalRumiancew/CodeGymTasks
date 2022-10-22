@@ -1,4 +1,4 @@
-package pl.codegym.task.task01.task0132;
+package pl.codegym.task.task03.task0303.task01.task0132;
 
 /* 
 Suma cyfr trzycyfrowej liczby

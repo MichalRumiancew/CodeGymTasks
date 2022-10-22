@@ -1,4 +1,4 @@
-package pl.codegym.task.task03.task0307;
+package pl.codegym.task.task03.task0308.task0307;
 
 /* 
 Witaj, StarCraft!

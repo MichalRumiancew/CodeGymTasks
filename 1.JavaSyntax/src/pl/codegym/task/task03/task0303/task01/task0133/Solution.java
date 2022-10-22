@@ -1,4 +1,4 @@
-package pl.codegym.task.task01.task0133;
+package pl.codegym.task.task03.task0303.task01.task0133;
 
 /* 
 Nie myśl o sekundach...

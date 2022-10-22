@@ -1,4 +1,4 @@
-package pl.codegym.task.task03.task0319;
+package pl.codegym.task.task04.task0432.task0319;
 
 /* 
 Prognozy
