@@ -4435,3 +4435,12 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-11-12 13:02:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2022-11-12 13:02:03 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task07/task0714
 2022-11-12 13:02:04 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-12 13:05:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-12 13:05:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-12 13:05:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-12 13:05:44 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-13 12:30:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-13 12:30:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-13 12:30:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-13 12:30:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-13 12:30:20 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
