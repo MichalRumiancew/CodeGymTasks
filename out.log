@@ -4615,3 +4615,46 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-11-13 13:57:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-11-13 13:57:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-11-13 13:57:05 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 20:13:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 20:13:50 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-15 20:13:52 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-15 20:13:52 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task07/task0719
+2022-11-15 20:13:52 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 20:15:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 20:15:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-15 20:15:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 20:15:43 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 20:15:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 20:15:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 20:15:59 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-15 20:16:00 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 20:17:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 20:17:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 20:17:20 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-15 20:17:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 20:17:21 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 20:17:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 20:17:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-15 20:17:26 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 20:44:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 20:44:38 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-15 20:44:40 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-15 20:44:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task07/task0720
+2022-11-15 20:44:41 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 21:47:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 21:47:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 21:47:26 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-15 21:47:27 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 21:48:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 21:48:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 21:48:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-15 21:48:11 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 21:49:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 21:49:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 21:49:34 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-15 21:49:34 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-15 21:53:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-15 21:53:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 21:53:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-15 21:53:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-15 21:53:23 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
