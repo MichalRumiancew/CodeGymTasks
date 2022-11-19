@@ -16,11 +16,10 @@ public class Solution {
     }
 
     public static long getCzasWstawienWms(List lista) {
-        // tutaj wpisz swój kod
-
+        Date date1 = new Date();
         wstaw10000(lista);
-
-        // tutaj wpisz swój kod
+        Date date2 = new Date();
+        return date2.getTime() - date1.getTime();
 
     }
 

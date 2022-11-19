@@ -23,11 +23,10 @@ public class Solution {
     }
 
     public static long getCzasGetWms(List lista) {
-        // tutaj wpisz swój kod
-
+        Date date1 = new Date();
         get10000(lista);
-
-        // tutaj wpisz swój kod
+        Date date2 = new Date();
+        return date2.getTime() - date1.getTime();
 
     }
 
