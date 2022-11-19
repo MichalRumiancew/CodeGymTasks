@@ -4931,3 +4931,8 @@ com.homework.plugin.analytics.PluginWarningException: warning
 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
 2022-11-19 14:49:02 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
 2022-11-19 14:49:02 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-19 14:54:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-19 14:54:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-19 14:54:20 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-19 14:54:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-19 14:54:21 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
