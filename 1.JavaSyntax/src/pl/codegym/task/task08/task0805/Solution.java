@@ -25,6 +25,8 @@ public class Solution {
     }
 
     public static void printWartosci(Map<String, String> mapa) {
-        //tutaj wpisz swój kod
+        for (String value : mapa.values()) {
+            System.out.println(value);
+        }
     }
 }
