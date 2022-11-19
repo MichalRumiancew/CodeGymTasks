@@ -4980,3 +4980,12 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-11-19 15:08:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-11-19 15:08:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-11-19 15:08:07 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-19 15:11:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-19 15:11:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-19 15:11:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-19 15:11:06 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-19 15:12:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-19 15:12:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-19 15:12:32 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-19 15:12:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-19 15:12:33 INFO  AnalyticsService.run(86) - null : error in server. Status code :405

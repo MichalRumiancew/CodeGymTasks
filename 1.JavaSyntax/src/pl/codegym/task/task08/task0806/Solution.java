@@ -21,7 +21,9 @@ public class Solution {
         mapa.put("Przytulas", 111111111111L);
         mapa.put("Comp", (double) 123);
 
-        //tutaj wpisz swój kod
+        for (Map.Entry<String, Object> para : mapa.entrySet()) {
+            System.out.println(para.getKey() + " - " + para.getValue());
+        }
 
     }
 }
