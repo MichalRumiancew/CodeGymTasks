@@ -6005,3 +6005,180 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-11-20 15:01:47 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-11-20 15:01:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-11-20 15:01:48 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 15:29:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 15:29:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 15:29:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-20 15:29:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 15:29:50 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 15:41:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 15:41:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 15:41:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-20 15:41:19 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 15:41:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 15:41:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 15:41:58 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-20 15:41:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 15:41:59 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 15:50:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 15:50:39 INFO  ApacheHttpClient.completed(32) - responseCode = 400
+2022-11-20 15:50:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 15:50:40 WARN  TaskCompleted.run(74) - You already completed this task: "Powtórzenia nie są potrzebne"
+com.homework.plugin.analytics.PluginWarningException: warning
+	at com.homework.plugin.callback.TaskCompleted.run(TaskCompleted.java:74)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:209)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:191)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.openapi.application.impl.ApplicationImpl$3.run(ApplicationImpl.java:513)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:75)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:118)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:42)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:779)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:749)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:918)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:766)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:450)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:791)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:449)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:624)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:447)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:493)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+2022-11-20 15:50:40 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 15:50:40 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:17:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:17:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 17:17:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-20 17:17:13 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:17:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:17:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 17:17:37 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-20 17:17:38 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:17:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:17:42 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:17:46 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:18:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:18:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 17:18:57 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-20 17:18:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 17:18:58 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:20:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:20:53 INFO  ApacheHttpClient.completed(32) - responseCode = 400
+2022-11-20 17:20:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-20 17:20:53 WARN  TaskCompleted.run(74) - You already completed this task: "Tylko dla bogaczy"
+com.homework.plugin.analytics.PluginWarningException: warning
+	at com.homework.plugin.callback.TaskCompleted.run(TaskCompleted.java:74)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:209)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:191)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.openapi.application.impl.ApplicationImpl$3.run(ApplicationImpl.java:513)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:75)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:118)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:42)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:779)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:749)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:918)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:766)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:450)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:791)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:449)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:624)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:447)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:493)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+2022-11-20 17:20:53 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:20:53 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:32:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:32:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:32:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:32:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0819
+2022-11-20 17:32:43 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:32:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:32:52 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:32:54 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:32:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0820
+2022-11-20 17:32:55 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:32:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:32:56 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:32:58 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:32:58 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0821
+2022-11-20 17:32:59 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:33:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:33:02 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:33:05 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:33:05 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0822
+2022-11-20 17:33:05 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:33:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:33:08 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:33:11 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:33:11 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0823
+2022-11-20 17:33:12 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:33:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:33:14 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:33:17 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:33:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0824
+2022-11-20 17:33:18 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:33:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:33:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:33:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:33:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0825
+2022-11-20 17:33:27 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:33:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:33:30 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:33:33 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:33:33 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0826
+2022-11-20 17:33:34 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:33:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:33:37 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:33:44 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:33:44 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0827
+2022-11-20 17:33:45 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:33:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:33:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:34:01 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:34:01 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0828
+2022-11-20 17:34:02 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:34:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:34:04 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:34:12 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:34:12 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0829
+2022-11-20 17:34:13 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-20 17:34:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-20 17:34:16 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-20 17:34:22 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-11-20 17:34:22 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JAVA/Projekty JAVA/CodeGymTasks/1.JavaSyntax/src/pl/codegym/task/task08/task0830
+2022-11-20 17:34:23 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-21 19:19:55 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-11-21 19:19:55 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.60 ----------
+
+2022-11-21 19:19:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-11-21 19:19:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-11-21 19:19:56 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-11-21 19:19:56 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-11-21 19:19:56 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-11-21 19:19:56 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
