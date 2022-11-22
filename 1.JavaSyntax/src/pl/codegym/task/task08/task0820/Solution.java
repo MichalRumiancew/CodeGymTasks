@@ -1,5 +1,5 @@
 package pl.codegym.task.task08.task0820;
-
+//
 import java.util.HashSet;
 import java.util.Set;
 
@@ -21,6 +21,10 @@ public class Solution {
 
     public static Set<Kot> utworzKoty() {
         HashSet<Kot> wynik = new HashSet<Kot>();
+        wynik.add(new Kot());
+        wynik.add(new Kot());
+        wynik.add(new Kot());
+        wynik.add(new Kot());
 
         //tutaj wpisz swój kod
 
@@ -28,22 +32,35 @@ public class Solution {
     }
 
     public static Set<Pies> utworzPsy() {
-        //tutaj wpisz swój kod
-        return null;
+        HashSet<Pies> wynik = new HashSet<Pies>();
+        wynik.add(new Pies());
+        wynik.add(new Pies());
+        wynik.add(new Pies());
+
+        return wynik;
     }
 
     public static Set<Object> dolacz(Set<Kot> koty, Set<Pies> psy) {
-        //tutaj wpisz swój kod
-        return null;
+        HashSet set = new HashSet();
+        set.addAll(koty);
+        set.addAll(psy);
+        return set;
     }
 
     public static void usunKoty(Set<Object> zwierzeta, Set<Kot> koty) {
-        //tutaj wpisz swój kod
+        zwierzeta.removeAll(koty);
     }
 
     public static void printZwierzeta(Set<Object> zwierzeta) {
-        //tutaj wpisz swój kod
+        for (Object pet : zwierzeta){
+            System.out.println(pet);
+        }
     }
 
-    //tutaj wpisz swój kod
+    public static class Kot{
+
+    }
+    public static class Pies{
+
+    }
 }

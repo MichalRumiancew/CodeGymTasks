@@ -1,5 +1,5 @@
 package pl.codegym.task.task08.task0825;
-
+//
 /* 
 Zakręcony modyfikator
 */
