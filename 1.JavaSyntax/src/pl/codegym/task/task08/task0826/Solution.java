@@ -25,7 +25,14 @@ public class Solution {
     }
 
     public static void sortuj(int[] tablica) {
-        //tutaj wpisz swój kod
+        for (int i = 0; i < tablica.length; i++) {
+            for (int j = i; j < tablica.length; j++) {
+                if (tablica[i] < tablica[j]) {
+                    int temp = tablica[i];
+                    tablica[i] = tablica[j];
+                    tablica[j] = temp;
+                }
+            }
+        }
     }
 }
-//
