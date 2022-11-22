@@ -14,9 +14,19 @@ public class Solution {
     }
 
     public static Map<String, String> utworzMapLudzi() {
-        //tutaj wpisz swój kod
+        HashMap<String, String> mapa = new HashMap<String, String>();
+        mapa.put("Smith", "Christopher");
+        mapa.put("Johnson", "Daniel");
+        mapa.put("Williams", "Daniel");
+        mapa.put("Jones", "Christopher");
+        mapa.put("Brown", "Christopher");
+        mapa.put("Johnson", "Jason");
+        mapa.put("Johnson", "Jason");
+        mapa.put("Williams", "Christopher");
+        mapa.put("Williams", "Christopher");
+        mapa.put("Williams", "Jason");
 
-        return null;
+        return mapa;
     }
 
     public static void printMapLudzi(Map<String, String> mapa) {
