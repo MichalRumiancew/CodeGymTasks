@@ -3,8 +3,7 @@ package pl.codegym.task.task08.task0829;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
 
 /* 
 Aktualizacja oprogramowania
@@ -15,23 +14,23 @@ public class Solution {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         // Lista adresów
-        List<String> adresy = new ArrayList<>();
+        HashMap<String, String> adresy = new HashMap<>();
         while (true) {
             String rodzina = reader.readLine();
             if (rodzina.isEmpty()) {
                 break;
             }
+            String family = reader.readLine();
 
-            adresy.add(rodzina);
+            adresy.put(rodzina, family);
         }
 
         // Wczytuje numer domu
-        int numerDomu = Integer.parseInt(reader.readLine());
+        String numerDomu = reader.readLine();
 
-        if (0 <= numerDomu && numerDomu < adresy.size()) {
+        if (adresy.containsKey(numerDomu)) {
             String nazwiskoRodziny = adresy.get(numerDomu);
             System.out.println(nazwiskoRodziny);
         }
     }
 }
-//
