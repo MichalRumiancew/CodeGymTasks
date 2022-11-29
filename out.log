@@ -8462,3 +8462,43 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-11-28 18:03:14 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-11-28 18:03:14 INFO  ApacheHttpClient.startGA(36) - GAService started.
 2022-11-28 18:03:15 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-28 20:32:44 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-11-28 20:32:44 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-11-28 20:32:45 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-11-28 20:32:45 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-11-28 20:32:45 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-11-28 20:32:45 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-11-28 20:32:45 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-11-28 20:32:46 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-28 20:36:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-28 20:36:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-28 20:36:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-28 20:36:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-28 20:36:43 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-28 20:41:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-28 20:41:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-28 20:41:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-28 20:41:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-28 20:41:42 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-28 20:42:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-28 20:42:01 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-11-28 20:42:04 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-29 20:37:46 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-11-29 20:37:46 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-11-29 20:37:47 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-11-29 20:37:47 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-11-29 20:37:47 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-11-29 20:37:47 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-11-29 20:37:47 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-11-29 20:37:48 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-29 21:46:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-29 21:46:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-29 21:46:32 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-29 21:46:32 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
+2022-11-29 21:48:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-11-29 21:48:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-29 21:48:36 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-11-29 21:48:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-11-29 21:48:37 INFO  AnalyticsService.run(86) - null : error in server. Status code :405
